@@ -1,0 +1,5 @@
+BBY-2521;Great Wall;C30;5;13000;Negro
+BXS-0756;Haval;H7;7;28000;Marrón
+ZGM-4452;Toyota;Corolla Cross;5;33290;Azul Metálico
+BVI-3947;JAC;JS2;5;14900;Rojo
+COW-3032;Hyundai;Tucson;5;23900;Gris
